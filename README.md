@@ -2,6 +2,7 @@ Welcome to Wagon Race Challenge, a game of speed and precision where the fastest
 
 Two players face off in a thrilling race, using their keyboards to control their wagons. The rules are simple: each player races to the finish line by pressing a designated key.
 
+
 Technologies Used
 
 HTML5 - Structure & Markup
